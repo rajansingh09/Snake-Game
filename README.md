@@ -2,45 +2,55 @@
 
 Author - Rajan Kumar
 
-- Project Description
-  This is a fun and interactive game developed to provide entertainment and improve cognitive skills. The game features multiple levels, engaging gameplay, and an intuitive user 
-  interface.
+Welcome to the Game repository! This project is focused on creating an engaging and interactive game experience.
 
-# Features
-- Multiple levels of varying difficulty
-- Intuitive user interface
-- Engaging gameplay mechanics
-- High scores and achievements
+## Features
 
-# Installation Instructions
-  To install and run the game locally, follow these steps:
+- Interactive gameplay
+- Various levels and challenges
+- Score tracking
+- User-friendly interface
+- Singleplayer support
 
-Clone the repository:
+## Technologies Used
 
-  git clone https://github.com/rajansingh09/Game.git
-   
-# Navigate to the project directory:
-  Snake Game
+- Frontend: HTML, CSS, JavaScript
 
-- Install dependencies:
-  npm install
+## Getting Started
 
- - Start the game -
+### Prerequisites
 
-# Usage Instructions:
-  Run the game using the installation instructions above.
-  Use the keyboard and mouse to control the game.
-  Progress through the levels and aim for a high score!
+- Node.js installed on your machine
+- MongoDB installed and running (if applicable)
 
-# Contributing Guidelines:
-  We welcome contributions to improve this game. To contribute, follow these steps:
-- Fork the repository.
-* Create a new branch for your feature or bugfix:
-- git checkout -b feature-name
-# Commit your changes:
-- git commit -m Description of changes
-# Push to the branch:
-- git push origin feature-name
-  
-  Submit a pull request.
+### Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/rajansingh09/Game.git
+    cd Game
+    ```
+
+2. Install dependencies:
+    ```sh
+    npm install
+    ```
+    
+## Usage
+
+1. Navigate to `http://localhost:3000` in your browser.
+2. Start the game and enjoy the interactive experience.
+3. Challenge your friends to beat your high score.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Contact
+
+For questions or support, please reach out at LinkedIn.
 
