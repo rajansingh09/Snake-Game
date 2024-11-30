@@ -1,6 +1,6 @@
 # Game
 
-Auther - Rajan Kumar
+Author - Rajan Kumar
 
 - Project Description
   This is a fun and interactive game developed to provide entertainment and improve cognitive skills. The game features multiple levels, engaging gameplay, and an intuitive user 
