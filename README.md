@@ -35,11 +35,11 @@ Clone the repository:
 # Contributing Guidelines:
   We welcome contributions to improve this game. To contribute, follow these steps:
 - Fork the repository.
-- Create a new branch for your feature or bugfix:
+* Create a new branch for your feature or bugfix:
 - git checkout -b feature-name
-- Commit your changes:
+# Commit your changes:
 - git commit -m Description of changes
-- Push to the branch:
+# Push to the branch:
 - git push origin feature-name
   
   Submit a pull request.
