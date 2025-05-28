@@ -59,7 +59,6 @@ cd Snake-Game
 ## 👨‍💻 Author
 
 **Rajan Singh**  
-📧 [arenaxenon@gmail.com](mailto:arenaxenon@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/rajansingh09)
 
 ## ⭐ Support
